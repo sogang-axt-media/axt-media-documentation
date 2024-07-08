@@ -3,4 +3,4 @@
 ### 2. 시설물도 대여
 - 지미집
 - XR 컴퓨터
-![Add Origin](./images/pages.jpg)
+
