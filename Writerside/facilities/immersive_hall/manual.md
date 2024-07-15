@@ -4,87 +4,52 @@
 
 - - -
 이머시브홀 인프라 정보
+# 값 뭔가 이상함 수정해야함
 
-코드 구분 제품명 (상세 스팩) 개수 위치 기능 비고
+| 코드 | 구분 | 제품명(상세 스펙) | 개수 | 위치 | 기능 | 비고 |
+| --- | --- | --- | --- | --- | --- | --- |
+| AT-0001 | 프로젝터 | Christie Mirage 304k | 1 | 프로젝터 | 전면 프로젝션 |  |
+| AT-0002 | 프로젝터 | Christie Boxer 4k | 1 | 천장 | 천장형 |  |
+| AT-0003 | 워크스테이션 | iMac Pro (2017) | 1 | 1층 데스크 | 키보드, 1.5m 케이블 | 키보드 1, 마우스 1 포함 |
+| AT-0004 | 워크스테이션 | HP Z840 Workstation | 1 | 2층 컨트롤룸 | 키보드, 1.5m 케이블 | 키보드 1, USB 마우스 1 포함 |
+| AT-0005 | 모니터 | Philips PHL BDM4065 | 1 | 2층 컨트롤룸 |  |  |
+| AT-0006 | HK Audio PR:O (출력) (1) (FL) | 1 | 천장 | 스테레오 |  |
+| AT-0007 | HK Audio PR:O (출력) (2) (C) | 3 |  | 스테레오 |  |
+| AT-0008 | HK Audio PR:O (출력) (3) (FR) | 1 |  | 스테레오 |  |
+| AT-0009 | 7.1 채널 스피커 | X-OVER CX-5 (1) (SL) (?) | 1 | 천장 | 성능이 우수하여 설치된 스피커는 X-OVER STX-808과 동일 |  |
+| AT-0010 | X-OVER CX-5 (2) (SR) (?) | 4 |  | 성능이 우수하여 설치된 스피커는 X-OVER STX-808과 동일 |  |
+| AT-0011 | X-OVER CX-5 (3) (RL) | 1 |  | 스테레오 |  |
+| AT-0012 | X-OVER CX-5 (4) (RR) | 1 |  | 스테레오 |  |
+| AT-0013 | X-OVER STX-718 (SW) | 1 | 1층 데스크 | 서브우퍼 |  |
+| AT-0014 | X-OVER FA-1201 (1) | 1 |  | 스테레오 |  |
+| AT-0015 | SD 음 멀티 | X-OVER FA-1201 (2) | 1 | 2층 컨트롤룸 | 최종 데스크 앰프 |  |
+| AT-0016 | X-OVER FA-601 PLUS | 1 |  | 스테레오 |  |
+| AT-0017 | SD 음 믹서 | Behringer X32 Compact | 1 | 2층 컨트롤룸 | 최종 믹서 데스크 |  |
+| AT-0018 | 소선전장 콘솔 | NS-8SW | 1 | 2층 컨트롤룸 | 최종 콘솔 데스크 |  |
+| AT-0019 | Shure QLXD4 수신기 (1) | 1 |  | 스테레오 |  |
+| AT-0020 | Shure QLXD4 수신기 (2) | 3 |  | 스테레오 |  |
+| AT-0021 | Shure QLXD4 수신기 (3) | 1 |  | 스테레오 |  |
+| AT-0022 | Shure UA844+SWB 안테나 분배기 스텔 | 1 |  | 스테레오 |  |
+| AT-0023 | SD 음 무선시스템 | Shure QLXD2 BETA87A 핸드마이크 (1) | 1 | 2층 컨트롤룸 | 최종 데스크 앰프 |  |
+| AT-0024 | Shure QLXD2 BETA87A 핸드마이크 (2) | 3 |  | 스테레오 |  |
+| AT-0025 | Shure QLXD2 BETA87A 핸드마이크 (3) | 1 |  | 스테레오 |  |
+| AT-0026 | Shure QLXD1 바디팩 + Shure MX150 라벨리에 마이크 | 1 |  | 스테레오 |  |
+| AT-0027 | Extron DP DA2 (1) | 1 |  | 스테레오 |  |
+| AT-0028 | Extron DP DA2 (2) | 1 |  | 스테레오 |  |
+| AT-0029 | DP 멀티기 | Extron DP DA2 (3) | 4 | 2층 컨트롤룸 | 최종 데스크 앰프 |  |
+| AT-0030 | Extron DP DA2 (4) | 1 |  | 스테레오 |  |
+| AT-0031 | HDBaseT 송신기 | Kramer MegaTOOLS DIP-20 | 1 |  | 스테레오 |  |
+| AT-0032 | 스위치허브 | HPE 1920-16G (JG923A) | 1 |  | 스테레오 |  |
+| AT-0033 | HDMI 분배기 | NEXT 5 in 1 out HDMI 분배기 | 1 |  | 스테레오 |  |
+| AT-0034 | 콘솔기 | ipTIME A8004NS-M 콘솔기 | 1 |  | 스테레오 |  |
+| AT-0035 | 키트 게임 컨트롤러 | Autoline JSR-4300 RF리모컨 | 1 |  | 스테레오 |  |
+| AT-0036 | 조명 콘솔 | NetDO FOX1024 | 1 | 2층 컨트롤룸 | 조명 컨트롤 |  |
+| AT-0037 | 조명 전원 RD메인 | R/D & MACHINE CONTROL CONSOLE | 1 | 2층 컨트롤룸 | 조명 전원 |  |
+| AT-0038 | 조명 전원 RD메인장 | R/D & MACHINE PANEL | 1 | 1층 작업실 | 조명  
 
-AT-0001 프로젝터 Christie Mirage 304k 1 프로젝터룸 전면 프로젝션
 
-AT-0002 프로젝터 Christie Boxer 4k 1 천장 바닥면 프로젝션
-AT-0003 컴퓨터 iMac Pro (2017) 1 1층 데스크 키보드 1, 마우스 1 포함
-AT-0004 컴퓨터 HP Z840 Workstation 1 2층 컨트롤룸 키보드 1, 마우스 1, USB
-허브 1 포함
-AT-0005 모니터 Philips PHL BDM4065 1 2층 컨트롤룸
-AT-0006
-7.1 채널 스피커
-HK Audio PR:O (추정) (1) (FL)
-3
-천장 행잉
-시공자료에는 X-OVER
-STX-808로 기록 AT-0007 HK Audio PR:O (추정) (2) (C)
-AT-0008 HK Audio PR:O (추정) (3) (FR)
-AT-0009 X-OVER CX-5 (1) (SL) (?)
-4
-설치만 되어있고, 앰프/믹
-서와 연결되지 않은 것으로 AT-0010 X-OVER CX-5 (2) (SR) (?) 추정
-AT-0011 X-OVER CX-5 (3) (RL)
-AT-0012 X-OVER CX-5 (4) (RR)
-AT-0013 X-OVER STX-718 (SW) 1 1층 데스크 앞
-AT-0014
-오디오 앰프
-X-OVER FA-1201 (1) 1
-AT-0015 X-OVER FA-1201 (2) 1 2층 컨트롤룸 좌측 데스크 랙
-AT-0016 X-OVER FA-601 PLUS 1
-AT-0017 오디오 믹서 Behringer X32 Compact 1 2층 컨트롤룸 좌측 데스크
-AT-0018 순차전원 공급기 NS-8SW 1 2층 컨트롤룸 좌측 데스크 랙
-AT-0019
-오디오 무선시스템
-Shure QLXD4 수신기 (1)
-3
-2층 컨트롤룸 좌측 데스크 랙
-AT-0020 Shure QLXD4 수신기 (2)
-AT-0021 Shure QLXD4 수신기 (3)
-AT-0022 Shure UA844+SWB 안테나 분배시스템 1
-AT-0023 Shure QLXD2 BETA87A 핸드마이크 (1)
-AT-0024 Shure QLXD2 BETA87A 핸드마이크 (2) 3
-AT-0025 Shure QLXD2 BETA87A 핸드마이크 (3)
-AT-0026 Shure QLXD1 핀마이크 바디팩 + Shure MX150 라발리에 마이크 1
-AT-0027
-DP분배기
-Extron DP DA2 (1)
-4
-2층 컨트롤룸 좌측 데스크 랙
-AT-0028 Extron DP DA2 (2)
-AT-0029 Extron DP DA2 (3)
-AT-0030 Extron DP DA2 (4)
-AT-0031 HDBaseT 송신기 Kramer MegaTOOLS DIP-20 1
-AT-0032 스위치허브 HPE 1920-16G (JG923A) 1
-AT-0033 HDMI 분배기 NEXT 5 in 1 out HDMI 분배기 1
-AT-0034 공유기 ipTIME A8004NS-M 공유기 1
-AT-0035 커튼 개폐 리모컨 Autoline JSR-4300 RF리모컨
-AT-0036 조명 콘솔 NetDO FOX1024 1 2층 컨트롤룸
-AT-0037 조명 전원 RD패널 R/D & MACHINE CONTROL CONSOLE 1 2층 컨트롤룸
-AT-0038 조명 전원 RD배전반 R/D & MACHINE PANEL 1 1층 좌측벽
-구조물 바텐 전동 배튼 (세트배튼 2, 조명배튼 3) 5 천장 행잉
-AT-0039
-조명
-LED SPOT 200W (Fresnel) (1)
-9
-AT-0040 LED SPOT 200W (Fresnel) (2)
-AT-0041 LED SPOT 200W (Fresnel) (3)
-AT-0042 LED SPOT 200W (Fresnel) (4)
-AT-0043 LED SPOT 200W (Fresnel) (5)
-AT-0044 LED SPOT 200W (Fresnel) (6)
-AT-0045 LED SPOT 200W (Fresnel) (7)
-AT-0046 LED SPOT 200W (Fresnel) (8)
-AT-0047 LED SPOT 200W (Fresnel) (9)
-AT-0048 LED PAR 180W (RGBW) (1)
-AT-0049 LED PAR 180W (RGBW) (2) 3
-AT-0050 LED PAR 180W (RGBW) (3)
-AT-0051 3D글라스 충전 랙 A&D 3D ADC-4220 3 1층 좌측 벽 랙 3D글라스 50개 동
-시 충전
-AT-0052 3D IR Sync
-Controller A&D 3D ADF-3500 1 2층 전면 프로젝터 상단
-AT-0053 3D글라스 Optoma ZF2100 수십개 1층 좌측 벽 랙 내부
+
+
 ## 이머시브홀 구조 이해하기
 •이머시브홀은 1층 홀 공간, 2층의 프로젝터룸과 컨트롤룸으로 구성되어있습니다.
 •1층에는 아이맥 프로, 3D안경 시스템 랙, R/D 배전반, 서브우퍼, 그리고 홀 벽면에 입력 단자함이 설치되어있습
@@ -165,7 +130,7 @@ AT-0053 3D글라스 Optoma ZF2100 수십개 1층 좌측 벽 랙 내부
 | 빨강  | 점멸 | 오류            | 시작 중, 냉각 중 또는 램프가 꺼져 있을 때 프로젝터에 오류가 있습니다. 프로젝터가 종료로 진행됩니다.                                                               |
 | 꺼짐  | 소멸 | AC 꺼짐         | AC 전원이 꺼져 있습니다.                                                                                                          |
 
-| 
+
 
 
 #### 조명기 전원 공급
