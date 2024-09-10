@@ -31,14 +31,14 @@ XR 스튜디오를 구동하는 메인 PC.
 <br> 또한, XR 스튜디오의 기본 추적 체계로서 Vive VR 시스템을 구동한다.
 
 ### (2) Blackmagic Design Decklink 8K Pro
-![blackmagic_1](./images/blackmagic_design_1.png)
+![blackmagic_1](./images/blackmagic_1.png)
 ![blackmagic_2](./images/blackmagic_design_2.jpg)
 PC에서 외부 카메라 입력, 외부 모니터 출력 등을 가능하게 하는 PCle 비디오 카드 별도의 USB 캡처 카드나 그래픽카드를 거치지 않고, 4개의 12G-SDI 규격 단자를 통해 최대 8K 해상도 영상을 양방향 전송할 수 있다.
 #### 장치소개 및 매뉴얼:
 https://www.blackmagicdesign.com/products/decklink/techspecs/W-DLK-45
 
 ### (3) Lilliput PVM 210S 모니터
-![lilliput_monitor](./images/lilliput_monitor.png)
+![lilliput_monitor](./images/liliput_monitor.png)
 실시간 합성 또는 송출 화면을 모니터링하기 위한 디스플레이, 일반 PC 모니터와 달리 3G-SDI 입력과 Loop Out 출력을 지원하며, 그외에도 HDMI와 VGA, AV단자 입력으로도 사용할 수 있다.
 <br> FHD 해상도, sRGB 색역 101% 지원, 최대 1,000nit의 밝기로 모니터링할 수 있다.
 #### 장치소개 및 매뉴얼:
@@ -47,50 +47,55 @@ https://tsisystem.co.kr/shop_view/?idx=539
 ### (4) MiniConverter/MicroConverter
 XR PC의 Decklink를 통해 출력되는 SDI 규격 신호를 다른 규격(HDMI 등)으로 변환하고 다양한 외부 기기로 전송할 수 있도록 하는 장치.
 <br> 공통적으로 입력된 SDI 신호를 복제해서 다시 출력시키는 Loop Out 기능을 지원한다.
-- Miniconverter : SDI to HDMI 4K
+- **Miniconverter : SDI to HDMI 4K**
 ![miniconverter_4k](./images/miniconverter_4k.jpg)
+    - SDI 입력: 1 x SD, HD, 6G-SDI 규격 / 1 x ALT SDI (예비용 입력)
+    - SDI 출력: 1 x Loop Out (입력 복제)
+    - HDMI 출력: 1 x 타입A
+    - 오디오 채널: 2채널 아날로그 오디오(1/4”) 또는 AES/EBU 디지털 오디오
 
+#### 장치소개 및 매뉴얼:
+https://www.blackmagicdesign.com/api/print/to-pdf/products/miniconverters/techspecs/W-CONM-26?filename=mini-converter-sdi-to-hdmi-6gtechspecs.pdf
 
-### Sony FS7||
+- **MicroConverter - SDI to HDMI**
+  ![microconverter](./images/microconverter.png)
+
+  - SDI 입력: 1 x SD, HD, 3G-SDI 규격
+  - SDI 출력: 1 x Loop Out (입력 복제)
+  - HDMI 출력: 1 x 타입A
+#### 장치소개 및 매뉴얼:
+https://www.blackmagicdesign.com/api/print/to-pdf/products/microconverters/techspecs/W-CONU-12?filename=micro-converter-sdi-to-hdmi-3gtechspecs.pdf
+
+-----------------
+![xr_2](./images/xr_2.png)
+### (1) Sony FS7|| 캠코더
+![fs72](./images/fs72.png)
 XR스튜디오의 메인 카메라.
-4K Super 35mm 센서 규격의 전문 캠코더로, 캠코더의 XQD카드를 활용하면 최대 DCI-4K(4096*2160) 59.94p 영상을 XAVCI
+<br> 4K Super 35mm 센서 규격의 전문 캠코더로, 캠코더의 XQD카드를 활용하면 최대 DCI-4K(4096*2160) 59.94p 영상을 XAVCI
 코덱(600Mbps)으로 녹화할 수 있으며,
 현재 XR스튜디오에 설치된 구성대로도 최대 DCI-4K 59.94p 영상을 PC로 실시간 입력할 수 있다.
-5-log 지원, 가변ND필터 등 기능을 이용해 전문적인 영상 작업을 수행할 수 있다.
-장치소개 및 매뉴얼:https://pro.sony/ko KR/support-resources/pxw-fs7m2/manual
+<br> 5-log 지원, 가변ND필터 등 기능을 이용해 전문적인 영상 작업을 수행할 수 있다.
 
-### Sony 18-110mm F4 GOSS
-현재 FS7I캠코더에 연결된 기본렌즈.
-18mm 광각부터 110mm 망원까지의 넓은 화각대를 커버하는 줌렌즈로, 전동식 줌, 광학식 손떨림 보정 기능, 무단 조리개링 등 전문적인 영상 작업에 최적화 되어 있다.
+#### 장치소개 및 매뉴얼: 
+https://pro.sony/koKR/support-resources/pxw-fs7m2/manual
 
-### Atomos Shogun Inferno
-모니터 레코더
+### (2) Sony 18-110mm F4 GOSS
+![gosslens](./images/gosslens.png)
+현재 FS7II캠코더에 연결된 기본렌즈.
+<br> 18mm 광각부터 110mm 망원까지의 넓은 화각대를 커버하는 줌렌즈로, 전동식 줌, 광학식 손떨림 보정 기능, 무단 조리개링 등 전문적인 영상 작업에 최적화 되어 있다.
+
+-----------------
+![xr_3](./images/xr_3.png)
+### (1) Atomos Shogun Inferno 모니터 레코더
+![inferno_monitor](./images/inferno_monitor.png)
 XR스튜디오의 메인 카메라를 통해 촬영되는 상을 실시간 모니터링하고, PC로의 SDI 또는 HDMI 케이블 연결을 지원하며, 탈부착 가능한 SSD를 통해 카메라로부터 받아온 영상 입력을 다양한 외부 포맷으로 녹화할 수 있는 모니터 레코더.
-장치소개 및 매뉴얼:https://downloads.atomos.com/shogun-inferno/Shogun Inferno_ User Manual.pdf
-좌측면
-후면
-우측면
-모니터 캘리브레이션용 2.5mm 단자
-전원버튼
-SSD 장착 틀
-듀얼 배터리 슬롯
-ATOMOS
-오디오 출력용
-3.5mm 단자
-HDMI입력 단자
-HDMI 출력 단자
-DC전원단자
-오디오 입력용
-아날로그 단자
-3G-SDI 입력단자 *3
-12GSDI 입력단자
-12G-SDI 출력단자 젠락/타임코드 입력단자
+#### 장치소개 및 매뉴얼:
+https://downloads.atomos.com/shogun-inferno/ShogunInferno_User_Manual.pdf
+<br> 
 
-XR스튜디오의 메인 카메라를 통해 촬영되는 상을 실시간 모니터링하고, PC로의 SDI 또는 HDMI 케이블 연결을 지원하며, 탈부착 가능한 SSD를 통해 카메라로부터 받아온 영상 입력을 다양한 외부 포맷으로 녹화할 수 있는 모니터 레코더.
-장치소개 및 매뉴얼:https://downloads.atomos.com/shogun-inferno/Shogun Inferno_ User Manual.pdf
-
-모니터 레코더용SSD는 탈착 후
-스튜디오 내에 비치된 SATA to USB C 어댑터를 통해 파일 백업이 가능하다.
+![inferno_monitor_detail](./images/inferno_monitor_detail.png)
+![inferno_monitor_ssd](./images/inferno_monitor_ssd.jpg)
+모니터 레코더용SSD는 탈착 후 스튜디오 내에 비치된 SATA to USB C 어댑터를 통해 파일 백업이 가능하다.
 
 ### 벤로 MoveUp20 지미집 시스템
 지미집 본체 MoveUp20+ 전동드 MUC10+ 삼각대 AS04S+ 바퀴달리 DL10
@@ -332,16 +337,15 @@ MPEG HD422: 저품질, 고압축(저용량). 8but 4:2:2 코덱. 1080 해상도�
 - 옆 호실(Seminar Room)을 확장해 사용한 경우, 반드시 모든 문을 닫고 잠근 후 퇴실하십시오.
 - PC와 각종 저장장치는 주기적으로 포맷되므로 개인 자료는 미리 백업하십시오
 - 안전사고 주의
-    - 지미집 사용시 부딪힘 사고를 주의할 것
+  1. 지미집 사용시 부딪힘 사고를 주의할 것
         - XR스튜디오에 설치된 지미집은 금속제에 부피가 크고 양쪽으로 20kg이 넘는 무게가 달린 물체로, 운용시나 통행시에 부딪히거나 물체가 떨어짐으로 인해 큰 사고가 일어날 위험이 있으므로 각별히 주의해야 함.
         - 또한, 좌우/상하로 지미집을 움직이다가 다른 기자재를 파손할 위험이 있으므로, 주변을 미리 살필 수 있도록 지미집 운용 시에 스튜디오에 2인 이상 상주할 것을 강력히 권장함.
-    - 케이블 단선, 걸려 넘어짐 사고를 주의할 것
+  2. 케이블 단선, 걸려 넘어짐 사고를 주의할 것
         - XR스튜디오에는 많은 케이블이 설치되어있어 통행시에 케이블을 밟거나 걸려 넘어질 위험이 있으므로 각별히 주의해야 함.
         - 케이블의 내구도와 사고 방지를 위해 되도록 케이블을 직접 밟지 않도록 주의해야 함.
-    - 천장 메쉬 작업시 낙상사고에 주의할 것
+  3. 천장 메쉬 작업시 낙상사고에 주의할 것
         - 되도록 천장 메쉬에 설치된 장치를 건들지 말고, 꼭 필요한 경우에는 반드시 사다리 밑에서 보조할 인원을 구할 것.
 
-제작 아텍 17 류권우
 
 
 
