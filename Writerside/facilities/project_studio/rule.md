@@ -1,4 +1,4 @@
-# Project Studio 대여규정
+# Project Studio 대여규정 (승인 필요 X)
 - - -
 ## 1. 이용가능 시간
 - 10:00 ~ 22:00

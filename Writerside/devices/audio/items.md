@@ -1,1 +1,16 @@
 # 음향장비 대여목록
+- - -
+| 분류     | 아이템 목록                                                             | 구성품 목록                                                                                                  | 분실 목록   | 상태               | 비고  |
+|----------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|------------|--------------------|-------|
+| 음향     | [Microphone] Audio Technica AT831b Lavalier (1)                         | - 핀마이크 파워모듈<br>- 핀 마이크<br>- 핀 마이크 집게 클립<br>- 핀 마이크 슬라이드 클립(?)<br>- 핀 마이크 폼 윈드스크린 |            |                    |       |
+| 음향     | [Microphone] Audio Technica AT831b Lavalier (2)                         | - 핀마이크 파워모듈<br>- 핀 마이크<br>- 핀 마이크 집게 클립<br>- 핀 마이크 슬라이드 클립(?)<br>- 핀 마이크 폼 윈드스크린<br>- AA 배터리 |            |                    |       |
+| 음향     | [Microphone] Audio Technica AT831b Lavalier (3)                         | - 핀마이크 파워모듈<br>- 핀 마이크<br>- 핀 마이크 집게 클립<br>- 핀 마이크 슬라이드 클립(?)<br>- 핀 마이크 폼 윈드스크린<br>- AA 배터리 |            |                    |       |
+| 음향     | [Microphone] BOYA BY-M1 (for smartphones) (1)                           |                                                                                                             | 못찾는중   |                    |       |
+| 음향     | [Microphone] BOYA BY-M1 (for smartphones) (2)                           |                                                                                                             | 못찾는중   |                    |       |
+| 음향     | [Microphone] RODE NTG Shotgun Mic kit (w/ blimp, deadcat, boompole)     | - 붐 마이크<br>- 붐 마이크 블림(앞마개, 뒤마개, 중간 부분, 마이크 쇼크마운트 분리 가능)<br>- 붐 마이크 폴대<br>- 윈드 스크린 |            |                    |       |
+| 음향     | [Recorder] Zoom F4 kit (w/ cables, batteries, chargers)                 | - 레코더 본체<br>- 배터리 충전시 * 2<br>- 충전식 AA 배터리 * 8<br>- 전용 가방 (덮개 분리형)                            |            |                    |       |
+| 음향     | [Recorder] Zoom H4n                                                    | - 레코더 본체<br>- 전용 가방                                                                                 |            | 사용은 가능하나 고장 |       |
+| 음향     | [Headphones] Sony MDR-7506                                              | - 헤드폰<br>- 헤드폰 가방<br>- 3.5mm - TRS 젠더(총알)                                                        |            |                    |       |
+| 음향     | [Microphone] SONY UWP-D21 Set (1)                                       | - 핀마이크 수신기<br>- 핀마이크 송신기<br>- 핀마이크<br>- 핀마이크 클립<br>- 핀마이크 폼 윈드스크린<br>- 카메라 마운트<br>- 3.5mm - 3.5mm 케이블<br>- 3.5mm - XLR(수) 케이블<br>- 박스 |            |                    |       |
+| 음향     | [Microphone] SONY UWP-D21 Set (2)                                       | - 핀마이크 수신기<br>- 핀마이크 송신기<br>- 핀마이크<br>- 핀마이크 클립<br>- 핀마이크 폼 윈드스크린<br>- 카메라 마운트<br>- 3.5mm - 3.5mm 케이블<br>- 3.5mm - XLR(수) 케이블<br>- 박스 |            |                    |       |
+| 음향     | [Recorder] Zoom F8                                                     | - 레코더 본체<br>- DC 전원 어댑터<br>- 박스                                                                 |            |                    |       |
