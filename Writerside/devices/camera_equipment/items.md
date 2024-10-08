@@ -1,1 +1,15 @@
 # 촬영장비 대여목록
+- - -
+| 분류           | 아이템 목록                                          | 구성품 목록                                                                                                                    | 분실 목록       | 상태          | 비고       |
+|----------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|----------------|---------------|------------|
+| 촬영장비       | [Photo Tripod] Manfrotto mt190xpro4+BHQ Ball Head     | - 삼각대 가방<br>- 삼각대<br>- 플레이트<br>- 플레이트 나사                                                                     |                |               |            |
+| 촬영장비       | [Video Tripod] E-Image EG03A3                        | - 삼각대 가방<br>- 삼각대<br>- 플레이트<br>- 플레이트 나사                                                                     |                |               |            |
+| 촬영장비       | [Video Tripod] E-Image EK630GT (1)                   | - 삼각대 가방<br>- 삼각대<br>- 플레이트<br>- 플레이트 나사                                                                     |                |               |            |
+| 촬영장비       | [Video Tripod] E-Image EK630GT (2)                   | - 삼각대 가방<br>- 삼각대<br>- 플레이트<br>- 플레이트 나사                                                                     |                |               |            |
+| 촬영장비       | [Gimbal] Camtool Alpha Beam                          | - 짐벌<br>- 플레이트<br>- 배터리 4개<br>- 충전기(케이블 미포함 -> 충전 불가)                                                   |                |               |            |
+| 촬영장비       | [Gimbal] Zhiyun Crane Plus                           | - 짐벌<br>- 미니 삼각대<br>- 손잡이<br>- 배터리 2개<br>- 충전기, usb 충전기(5pin 케이블 포함)<br>- 리모콘<br>- 3.5 - 5핀<br>- 5핀 - 5핀<br>- Y자(?)<br>- 나사 2개(?)<br>- 플레이트 |                |               |            |
+| 촬영장비       | [Gimbal] Zhiyun Smooth 4 (for smartphones) (1)        | - 짐벌<br>- 미니 삼각대<br>- usb - c type                                                                                      |                |               |            |
+| 촬영장비       | [Gimbal] Zhiyun Smooth 4 (for smartphones) (2)        | - 짐벌<br>- 미니 삼각대<br>- usb - c type                                                                                      |                |               |            |
+| 촬영장비       | [Monitor/Recorder] - Atomos Shogun Inferno (w/ SSD, batteries, charger)-XR스튜디오에 비치, 대여불가 |                                                                                                                               |                | 대여불가      | XR스튜디오에 비치 |
+| 촬영장비       | [Accessories] Green Screen Choma-Key kit             | - 크로마 스탠드<br>- 크로마키 천                                                                                                |                |               |            |
+| 촬영장비       | [Gimbal] dji OSMO pro SE (for smartphones)            | - 본체                                                                                                                         | 대여목록에 없음 |               |            |

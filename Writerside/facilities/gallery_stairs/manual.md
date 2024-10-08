@@ -1,1 +1,1 @@
-# Art Studio 사용 매뉴얼
+# Gallery&Stairs 사용 매뉴얼
